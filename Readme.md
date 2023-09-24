@@ -24,7 +24,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.damon-liu.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=051318AA&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=40&lines=%E7%A7%AF%E4%B8%80%E6%97%B6%E4%B9%8B%E8%B7%AC%E6%AD%A5%EF%BC%8C%E8%87%BB%E4%B8%87%E9%87%8C%E4%B9%8B%E9%81%A5%E7%A8%8B%EF%BC%81" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=051318AA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=40&lines=The+journey+of+a+thousand+miles+begins+with+a+single+step." alt="Typing SVG" />
     </a>
   </div><br>
   
