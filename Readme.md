@@ -31,9 +31,9 @@
   <img width="200%" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/hr.gif" />
 
   <!-- metrics 基础资料 -->
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
-  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/cxyduck.gif" />&emsp;
+  <img src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/github-metrics/base.svg" />
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/cxyduck.gif" />
 
   <!-- GitHub 奖杯🏆 -->
   <img  src="https://github-profile-trophy.vercel.app/?username=Damon-Liu-code&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
