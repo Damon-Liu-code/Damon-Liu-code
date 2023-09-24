@@ -1,11 +1,26 @@
 <div align="center">
   
+  <!-- Awesome repo 比较好的仓库-->
+  <a href="https://github.com/Damon-Liu-code/WeeklyReport">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=WeeklyReport&theme=white&bg_color=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/Damon-Liu-code/AutoCreateProject">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=AutoCreateProject&theme=white&bg_color=ffffff&hide_border=true" /></a><br><br>
+    
+
+  <!-- ########################################## 分割 ########################################## -->
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/hr.gif" />
+  
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://www.damon-liu.cn/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=051318AA&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=50&lines=%E7%A7%AF%E4%B8%80%E6%97%B6%E4%B9%8B%E8%B7%AC%E6%AD%A5%EF%BC%8C%E8%87%BB%E4%B8%87%E9%87%8C%E4%B9%8B%E9%81%A5%E7%A8%8B%EF%BC%81" alt="Typing SVG" />
     </a>
   </div>
+
+  <!-- metrics 基础资料 -->
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
+  <img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />
 
    <!-- profile logo 个人资料徽标 -->
   <div align="center">
@@ -26,14 +41,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
-  <!-- ########################################## 分割 ########################################## -->
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/hr.gif" />
-
-  <!-- metrics 基础资料 -->
-  <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
-  <img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />
-  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />
 
   <!-- GitHub 奖杯🏆 -->
   <img  src="https://github-profile-trophy.vercel.app/?username=Damon-Liu-code&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
