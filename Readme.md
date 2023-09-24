@@ -32,7 +32,7 @@
 
   <!-- metrics 基础资料 -->
   <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
+  <img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />
   &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />
 
   <!-- GitHub 奖杯🏆 -->
