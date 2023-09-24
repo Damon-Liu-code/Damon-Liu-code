@@ -1,9 +1,9 @@
 <div align="center">
   
   <!-- metrics 基础资料 -->
-  <img width="170" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
   <img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />
-  &emsp;<img width="170" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" /><br><br>
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" /><br><br>
   
    <!-- profile logo 个人资料徽标 -->
   <div align="center">
