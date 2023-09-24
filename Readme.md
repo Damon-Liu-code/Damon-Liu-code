@@ -31,8 +31,12 @@
   <!-- Awesome repo 比较好的仓库-->
   <a href="https://github.com/Damon-Liu-code/WeeklyReport">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=WeeklyReport&theme=white&bg_color=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/Damon-Liu-code/ComponentProject">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=ComponentProject&theme=white&bg_color=ffffff&hide_border=true" /></a><br>
   <a href="https://github.com/Damon-Liu-code/AutoCreateProject">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=AutoCreateProject&theme=white&bg_color=ffffff&hide_border=true" /></a><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=AutoCreateProject&theme=white&bg_color=ffffff&hide_border=true" /></a>
+  <a href="https://github.com/Damon-Liu-code/Base_MIS">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=Base_MIS&theme=white&bg_color=ffffff&hide_border=true" /></a><br>
 
   <!-- GitHub 奖杯🏆 -->
   <img  src="https://github-profile-trophy.vercel.app/?username=Damon-Liu-code&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
