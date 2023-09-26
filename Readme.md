@@ -1,10 +1,11 @@
 <div align="center">
   
   <!-- metrics 基础资料 -->
-  <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
+  <!--<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
   <img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />
-  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" /><br><br>
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" /><br><br>-->
   
+  <img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />
    <!-- profile logo 个人资料徽标 -->
   <div align="center">
     <a href="https://www.damon-liu.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
