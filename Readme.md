@@ -39,7 +39,6 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=ComponentProject&theme=white&bg_color=ffffff&hide_border=false" /></a><br><br><br>
 
   <!-- GitHub 奖杯🏆 -->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Damon-Liu-code)](https://github.com/Damon-Liu-code/github-profile-trophy)
   <!-- <img  src="https://github-profile-trophy.vercel.app/?username=Damon-Liu-code&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br><br><br> -->
 
   <!-- GitHub 数据统计 -->
