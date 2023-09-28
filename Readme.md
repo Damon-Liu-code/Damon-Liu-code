@@ -36,7 +36,19 @@
   <a href="https://github.com/Damon-Liu-code/Base_MIS">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=Base_MIS&theme=white&bg_color=ffffff&hide_border=false" /></a>
   <a href="https://github.com/Damon-Liu-code/ComponentProject">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=ComponentProject&theme=white&bg_color=ffffff&hide_border=false" /></a><br><br><br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Damon-Liu-code&repo=ComponentProject&theme=white&bg_color=ffffff&hide_border=false" /></a><br>
+
+  <!-- 近期博客 -->
+### Recent Blog
+<!--<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />-->
+<!-- START_SECTION:blog -->
+* <a href='https://www.damon-liu.cn/2048.html' target='_blank'>HikvisionCamera Development | Acquiring Video Streams via Yoosee Cloud RTMP Protocol</a> - 2023-08-20
+* <a href='https://www.damon-liu.cn/2027.html' target='_blank'>HikvisionCamera Development | Acquiring Video Streams via Hikvision RTSP Protocol</a> - 2023-08-18
+* <a href='https://www.damon-liu.cn/2012.html' target='_blank'>Introduction to Machine Learning | Colab Environment</a> - 2023-08-15
+* <a href='https://www.damon-liu.cn/1922.html' target='_blank'>Advanced Java Development | Summary of Spring Boot Framework</a> - 2023-05-09
+* <a href='https://www.damon-liu.cn/1602.html' target='_blank'>Advanced C# Development | Summary of LINQ Expressions</a> - 2022-11-25
+<!-- END_SECTION:blog -->
+<br>
 
   <!-- GitHub 奖杯🏆 -->
   <img  src="https://github-profile-trophy.vercel.app/?username=Damon-Liu-code&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br><br><br>
