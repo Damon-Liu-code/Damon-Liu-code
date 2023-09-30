@@ -1,9 +1,10 @@
 <div align="center">
   
   <!-- metrics 基础资料 -->
-  <img width="130" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
+  <img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" />&emsp;
   <img src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/github-metrics/base.svg" />
-  &emsp;<img width="130" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" /><br><br>
+  &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/Damon-Liu-code/Damon-Liu-code/assets/images/taffy.gif" /><br><br>
+  <!--<img src="https://metrics.lecoq.io/Damon-Liu-code?template=classic&config.timezone=Asia%2FShanghai" />-->
   
    <!-- profile logo 个人资料徽标 -->
   <div align="center">
