@@ -38,7 +38,7 @@
   
   <!-- Awesome repo 精选项目 -->
   <div align="center">
-    <h3>🚀 Featured Projects</h3>
+    ### 🚀 Featured Projects(https://www.damon-liu.cn/)
     <a href="https://github.com/Damon-Liu-code/smart-financial-report-analysis">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=smart-financial-report-analysis&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
@@ -56,7 +56,7 @@
 <br>
   
   <!-- 近期博客 -->
-  ### 📚 [Technical Blog](https://www.damon-liu.cn/)
+  ### 📚 Technical Blog(https://github.com/Damon-Liu-code?tab=repositories)
   <!-- START_SECTION:blog -->
   * <a href='https://www.damon-liu.cn/2048.html' target='_blank'>🎥 HikvisionCamera Development | Acquiring Video Streams via Yoosee Cloud RTMP Protocol</a> - 2023-08-20
   * <a href='https://www.damon-liu.cn/2027.html' target='_blank'>📹 HikvisionCamera Development | Acquiring Video Streams via Hikvision RTSP Protocol</a> - 2023-08-18
