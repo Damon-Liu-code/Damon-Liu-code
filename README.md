@@ -37,8 +37,9 @@
   </div>
   
   <!-- Awesome repo 精选项目 -->
+  
+  ### 🚀 [Featured Projects](https://github.com/Damon-Liu-code?tab=repositories) 
   <div align="center">
-    ### 🚀 Featured Projects(https://www.damon-liu.cn/)
     <a href="https://github.com/Damon-Liu-code/smart-financial-report-analysis">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=smart-financial-report-analysis&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
@@ -56,13 +57,13 @@
 <br>
   
   <!-- 近期博客 -->
-  ### 📚 Technical Blog(https://github.com/Damon-Liu-code?tab=repositories)
+  ### 📚 [Technical Blog](https://www.damon-liu.cn/)
   <!-- START_SECTION:blog -->
-  * <a href='https://www.damon-liu.cn/2048.html' target='_blank'>🎥 HikvisionCamera Development | Acquiring Video Streams via Yoosee Cloud RTMP Protocol</a> - 2023-08-20
-  * <a href='https://www.damon-liu.cn/2027.html' target='_blank'>📹 HikvisionCamera Development | Acquiring Video Streams via Hikvision RTSP Protocol</a> - 2023-08-18
-  * <a href='https://www.damon-liu.cn/2012.html' target='_blank'>🤖 Introduction to Machine Learning | Colab Environment</a> - 2023-08-15
-  * <a href='https://www.damon-liu.cn/1922.html' target='_blank'>☕ Advanced Java Development | Summary of Spring Boot Framework</a> - 2023-05-09
-  * <a href='https://www.damon-liu.cn/1602.html' target='_blank'>💎 Advanced C# Development | Summary of LINQ Expressions</a> - 2022-11-25
+* <a href='https://www.damon-liu.cn/2048.html' target='_blank'>🎥 HikvisionCamera Development | Acquiring Video Streams via Yoosee Cloud RTMP Protocol</a> - 2023-08-20
+* <a href='https://www.damon-liu.cn/2027.html' target='_blank'>📹 HikvisionCamera Development | Acquiring Video Streams via Hikvision RTSP Protocol</a> - 2023-08-18
+* <a href='https://www.damon-liu.cn/2012.html' target='_blank'>🤖 Introduction to Machine Learning | Colab Environment</a> - 2023-08-15
+* <a href='https://www.damon-liu.cn/1922.html' target='_blank'>☕ Advanced Java Development | Summary of Spring Boot Framework</a> - 2023-05-09
+* <a href='https://www.damon-liu.cn/1602.html' target='_blank'>💎 Advanced C# Development | Summary of LINQ Expressions</a> - 2022-11-25
 
 <br>
   
