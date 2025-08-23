@@ -51,24 +51,10 @@
 <!-- END_SECTION:blog -->
 <br>
 
- 🔥 顶级炫酷设计方案
-
-  方案一：赛博朋克风格
-
-  <!-- 🌟 赛博朋克横幅 -->
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B6B,100:4ECDC4&height=150&section=header&text=DAMON%20LIU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=⚡%20Code%20Samurai%20⚡&descAlignY=75&descAlign=50"/>
-  </div>
-
-  <!-- 🎮 Matrix风格打字效果 -->
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=80&lines=System.out.println(%22Hello+World%22);while(learning)+%7B+code()
-  ;+%7D;if(bug)+%7B+coffee();+debug();+%7D"/>
-  </div>
 
   <!-- 🌈 霓虹灯效果统计 -->
   <div align="center">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Damon-Liu-code&show_icons=true&theme=noctis_minimus&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&ring_color=FF6B6B"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Damon-Liu-code&layout=compact&langs_count=8&card_width=320"/>
     <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Damon-Liu-code&theme=noctis-minimus&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FF6B6B&currStreakLabel=ffffff"/>
   </div>
 
