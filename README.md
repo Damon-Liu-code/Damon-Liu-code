@@ -45,12 +45,6 @@
     <a href="https://github.com/Damon-Liu-code/S3TableBigScreen">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=S3TableBigScreen&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
-    <a href="https://github.com/Damon-Liu-code/Room-Layout-Generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=Room-Layout-Generator&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
-    </a>
-    <a href="https://github.com/Damon-Liu-code/S3TableBigScreen">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=S3TableBigScreen&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
-    </a>
     <a href="https://github.com/Damon-Liu-code/emotional-speaking-master">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=emotional-speaking-master&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
