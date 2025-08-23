@@ -39,14 +39,14 @@
   <!-- Awesome repo 精选项目 -->
   <div align="center">
     <h3>🚀 Featured Projects</h3>
-    <a href="https://github.com/Damon-Liu-code/WeeklyReport">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=WeeklyReport&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
+    <a href="https://github.com/Damon-Liu-code/smart-financial-report-analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=smart-financial-report-analysis&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
-    <a href="https://github.com/Damon-Liu-code/AutoCreateProject">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=AutoCreateProject&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
+    <a href="https://github.com/Damon-Liu-code/S3TableBigScreen">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=S3TableBigScreen&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
-    <a href="https://github.com/Damon-Liu-code/WeeklyReport">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=WeeklyReport&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
+    <a href="https://github.com/Damon-Liu-code/Room-Layout-Generator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=Room-Layout-Generator&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
     </a>
     <a href="https://github.com/Damon-Liu-code/AutoCreateProject">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damon-Liu-code&repo=AutoCreateProject&theme=default&bg_color=FFFFFF&title_color=4A90E2&text_color=333333" />
@@ -64,21 +64,12 @@
   * <a href='https://www.damon-liu.cn/1922.html' target='_blank'>☕ Advanced Java Development | Summary of Spring Boot Framework</a> - 2023-05-09
   * <a href='https://www.damon-liu.cn/1602.html' target='_blank'>💎 Advanced C# Development | Summary of LINQ Expressions</a> - 2022-11-25
 
-    
-<br>
-
-
-  
-
 <br>
   
   <!-- 技能彩虹 -->
   <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,python,docker,aws,mongodb,redis,golang,rust&perline=6"/>
   </div>
-
-
-
 
 </div>
 
